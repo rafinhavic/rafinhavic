@@ -1,6 +1,6 @@
 # Sobre mim
 
-- 👋 Olá meu nome é @rafinhavic
+- 👋 Olá meu nome é **@rafinhavic**
 - :+1:Meu email de contato é rafaela.fidelis@escola.pr.gov.br
 - 👀 Eu estou interessado em aprender a progamar novas linguagens.
 - 🌱Eu estou aprendendo a progamar recentemente a linguagem de JavaScript e Scratch
